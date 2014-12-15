@@ -64,7 +64,7 @@ webdriver提供了一系列的对象定位方法，常用的有以下几种
   </html>
 ```
 
-### python代码 simple_locate.rb
+### python代码 simple_locate.py
 ```python
 from selenium import webdriver
 from time import sleep
